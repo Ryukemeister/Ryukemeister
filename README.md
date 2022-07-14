@@ -1,4 +1,4 @@
-![Portfolio gif](https://github.com/Ryukemeister/Ryukemeister/blob/main/Portfolio%20gif.gif)
+![Portfolio gif](https://github.com/Ryukemeister/Ryukemeister/blob/main/Git%20intro.gif)
 
 # Hi there 👋 
 
