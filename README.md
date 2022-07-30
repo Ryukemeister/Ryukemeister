@@ -9,8 +9,6 @@ A front-end developer who designs sleek interfaces and builds interactive websit
 [![Rajiv's github activity graph](https://activity-graph.herokuapp.com/graph?username=ryukemeister&theme=github-light)](https://github.com/ryukemeister/github-readme-activity-graph)
 
 
-[![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukemeister)](https://github.com/ryukemeister/github-readme-stats)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryukemeister&theme=vue)
 
 ## Socials
