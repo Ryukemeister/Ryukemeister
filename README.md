@@ -4,6 +4,9 @@
 
 A front-end developer who designs sleek interfaces and builds interactive websites that WOW people. Some days I break my code, while on some days my code breaks me. My current interests include learning React and exploring open source to contribute to it.
 
+
+[![Rajiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryukemeister)](https://github.com/ryukemeister/github-readme-stats)
+
 ## Activity Graph
 
 [![Rajiv's github activity graph](https://activity-graph.herokuapp.com/graph?username=ryukemeister&theme=github-light)](https://github.com/ryukemeister/github-readme-activity-graph)
