@@ -8,7 +8,7 @@ A front-end developer who designs sleek interfaces and builds interactive websit
 
 <img src='./img/icons8-sleeping-60.png' width=45 height=45> &nbsp; &nbsp; <img src='./img/2072731.png' width=32 height=32> &nbsp; &nbsp; <img src='./img/icons8-musical-notes-48.png' width=35 height=35>
 
-## - The things I hate :
+## The things I hate :
 
 <img src='./img/icons8-bug-64.png' width=30 height=30> &nbsp; &nbsp; <img src='./img/icons8-bug-64.png' width=35 height=35> &nbsp; &nbsp; <img src='./img/icons8-bug-64.png' width=40 height=40>
 
