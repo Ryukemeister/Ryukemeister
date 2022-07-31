@@ -10,7 +10,7 @@ A front-end developer who designs sleek interfaces and builds interactive websit
 
 ## <img src='./img/icons8-broken-heart-48.png' width=25 height=25>&nbsp; Things I HATE
 
-<img src='./img/icons8-bug-64.png' width=32 height=32> &nbsp; &nbsp; <img src='./img/icons8-bug-64.png' width=32 height=32> &nbsp; &nbsp; <img src='./img/icons8-bug-64.png' width=32 height=32>
+<img src='./img/icons8-bug-64.png' width=30 height=30> &nbsp; &nbsp; <img src='./img/icons8-bug-64.png' width=35 height=35> &nbsp; &nbsp; <img src='./img/icons8-bug-64.png' width=40 height=40>
 
 ## <img src='./img/icons8-tools-48.png' width=22 height=22>&nbsp; A few tools that make my life easier
 
