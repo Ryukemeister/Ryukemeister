@@ -2,7 +2,7 @@
 
 ## Rajiv Sahal
 
-A front-end developer who designs sleek interfaces and builds interactive websites that WOW people. Some days I break my code, while on some days my code breaks me. My current interests include learning React and exploring open source to contribute to it.
+A front-end developer who designs sleek interfaces and builds interactive websites that&nbsp; <img src='./img/5129867.png' width=40 height=35>&nbsp; people. Some days I break my code, while on some days my code breaks me. My current interests include learning React and exploring open source to contribute to it.
 
 ## <img src='./img/icons8-graph-100.png' width=20 height=20>&nbsp; Activity Graph
 
