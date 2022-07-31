@@ -6,7 +6,7 @@ A front-end developer who designs sleek interfaces and builds interactive websit
 
 ## <img src='./img/icons8-love-48.png' width=23 height=23>&nbsp; The things I like
 
-<img src='./img/icons8-sleeping-60.png' width=35 height=35> &nbsp; &nbsp; <img src='./img/2072731.png' width=32 height=32> &nbsp; &nbsp; <img src='./img/icons8-musical-notes-48.png' width=35 height=35>
+<img src='./img/icons8-sleeping-60.png' width=45 height=45> &nbsp; &nbsp; <img src='./img/2072731.png' width=32 height=32> &nbsp; &nbsp; <img src='./img/icons8-musical-notes-48.png' width=35 height=35>
 
 ## <img src='./img/icons8-tools-48.png' width=22 height=22>&nbsp; A few tools that make my life easier
 
