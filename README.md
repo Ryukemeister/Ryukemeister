@@ -1,6 +1,6 @@
 ![Portfolio gif](https://github.com/Ryukemeister/Ryukemeister/blob/main/Git%20into-1.gif)
 
-# Rajiv Sahal
+# - Rajiv Sahal
 
 A front-end developer who designs sleek interfaces and builds interactive websites that&nbsp; <img src='./img/5129867.png' width=40 height=35>&nbsp; people. Some days I break my code, while on some days my code breaks me. My current interests include learning React and exploring open source to contribute to it.
 
