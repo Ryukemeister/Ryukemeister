@@ -1,4 +1,4 @@
-![Portfolio gif](https://github.com/Ryukemeister/Ryukemeister/blob/main/Git%20into-1.gif)
+![Portfolio gif](Github%20header-2.jpg)
 
 # Rajiv Sahal
 
