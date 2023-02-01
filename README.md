@@ -1,4 +1,4 @@
-![Portfolio gif](Github%20header-3.jpg)
+![Portfolio gif](Test_header_two.jpg)
 
 # Rajiv Sahal
 
