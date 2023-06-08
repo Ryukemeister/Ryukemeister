@@ -18,10 +18,6 @@ A front-end developer who designs sleek interfaces and builds interactive websit
 
 <br>
 
-## <img src='./img/icons8-graph-100.png' width=20 height=20>&nbsp; Activity Graph :
-
-[![Rajiv's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ryukemeister&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## <img src='./img/icons8-report-64.png' width=20 height=20>&nbsp; Github Profile Summary Card :
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryukemeister&theme=vue)
