@@ -1,7 +1,7 @@
 ![Portfolio gif](Test_header_three.jpg)
 
 
-A front-end developer who designs sleek interfaces and builds interactive websites that&nbsp; <img src='./img/5129867.png' width=40 height=35>&nbsp; people. Some days I break my code, while on some days my code breaks me. My current interests include learning ReactJs and exploring open source projects.
+I like to build bridges between aesthetics and interactivity on the web, making it a prettier place one line of code at a time. Some days I break my code, while on some days my code breaks me. These days I'm trying to get better at TypeScript and improve my knowledge of Next.js 
 
 ## The things I love :
 
